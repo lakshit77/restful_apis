@@ -1,4 +1,4 @@
-# Django Movie Booking API
+# Django Movie Booking API For Infoane Technologies
 
 Welcome to the Django Movie Booking API project! 🎬 This project provides a RESTful API for managing movies, bookings
 
