@@ -19,3 +19,6 @@ Welcome to the Django Movie Booking API project! 🎬 This project provides a RE
 1. Clone the repository
 2. Create Virtual Enviornment
 3. Install dependency from requirements.txt
+```bash
+pip install -r requirements.txt
+```
