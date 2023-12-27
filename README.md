@@ -51,3 +51,31 @@ docker run -p 8000:8000 movie-booking-app
 ```bash
 Visit http://localhost:8000/swagger to access the API with Documentation
 ```
+
+
+
+
+## Future Scope
+
+The Django Movie Booking API is an evolving project, and there are several exciting features and improvements planned for the future. Here are some ideas for the project's future scope:
+
+### 1. User Roles and Permissions
+
+Enhance user authentication by implementing roles and permissions. For example, differentiate between regular users, administrators, and staff members with varying levels of access.
+
+### 2. User Profiles
+
+Implement user profiles to allow users to customize their experience, view their booking history, and save favorite movies or genres.
+
+### 3. Social Media Integration
+
+Integrate social media authentication and sharing features to enhance user engagement and simplify the signup process.
+
+### 4. Testing and CI/CD
+
+Implement comprehensive unit and integration tests to ensure the reliability of the application. Set up continuous integration and deployment (CI/CD) pipelines for automated testing and deployment.
+
+### 5. Advanced Search and Filters
+
+Enhance the movie search functionality with advanced filters, sorting options, and additional metadata to help users find movies more easily.
+
